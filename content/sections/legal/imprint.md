@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Shivanshu Verma<br />
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+Mississauga<br />
+Canada
+
+E-Mail Address: <u>shivanshu.verma.112233@gmail.COM</u>
 
 ---
 
