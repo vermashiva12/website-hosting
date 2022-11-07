@@ -14,7 +14,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="SV" />
+      <Seo title="Shivanshu Verma" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
