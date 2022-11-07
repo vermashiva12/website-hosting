@@ -33,7 +33,7 @@
       }
     ,
     {
-      "label": "AWS Lambda, AWS EC2, AWS S3",
+      "label": "AWS Lambda,EC2,S3,Amplify,Lex",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
@@ -51,6 +51,17 @@
      
       }
     ,
+    
+    {
+      "label": "VPN Configurations and Support",
+     
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+     
+      }
+      ,
     {
       "label": "Microsoft Azure & GCP Certifications in Process",
       "image": {
@@ -67,6 +78,7 @@
       }
      
     },
+  
     {
       "label": "Capstone Group Project : AI Security System ",
       "url": "https://aisecuritysystem.netlify.app/login",
